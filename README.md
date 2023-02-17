@@ -11,8 +11,7 @@
 
 - Repositório usado para guardar atividades e estudos sobre a matéria de Fundamento de Sistemas.
 
-<br>
-- Repository used to keep activities and studies about the POO university subject.
+ - Repository used to keep activities and studies about the POO university subject.
 <br>
 
 ## School / Escola 📚
