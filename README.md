@@ -12,8 +12,7 @@
 - Repositório usado para guardar atividades e estudos sobre a matéria de Fundamento de Sistemas.
 
  - Repository used to keep activities and studies about the POO university subject.
-<br>
-
+--------------
 ## School / Escola 📚
 
 [IF-Goiano Website](https://ifgoiano.edu.br/home/index.php)
